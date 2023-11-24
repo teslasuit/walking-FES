@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\EMG QA\\5.0 Data recordigs"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "D:\\Anaconda\\python.exe",
+		"jupyter.jupyterServerType": "local",
+		"gitlab.instanceUrl": "https://gitlab.vrweartek.com/Research/medicalresearch"
+		
+	}
+}
